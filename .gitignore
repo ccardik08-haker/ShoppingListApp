@@ -1,0 +1,37 @@
+# Android
+*.iml
+.gradle/
+/local.properties
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# Kotlin
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+
+# Keystore
+*.jks
+*.keystore
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Build outputs
+app/build/
+core/build/
+data/build/
+*.apk
+*.aab
